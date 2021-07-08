@@ -1,16 +1,16 @@
 main:
-  - name: "Dịch vụ"
-    url: "/services/"
-    weight: 2
-  - name: "Thành viên"
-    url: "/team/"
-    weight: 3
-  - name: "Giới thiệu"
-    url: "/about/"
-    weight: 4
-  - name: "Liên hệ"
-    url: "/contact/"
-    weight: 5
+  # - name: "Dịch vụ"
+  #   url: "/services/"
+  #   weight: 2
+  # - name: "Thành viên"
+  #   url: "/team/"
+  #   weight: 3
+  # - name: "Giới thiệu"
+  #   url: "/about/"
+  #   weight: 4
+  # - name: "Liên hệ"
+  #   url: "/contact/"
+  #   weight: 5
 
 footer:
   - name: "Home"
