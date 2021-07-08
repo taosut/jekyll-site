@@ -13,7 +13,7 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Trang chủ"
     url: "/"
     weight: 1
   - name: "Liên hệ"
